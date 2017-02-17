@@ -1,0 +1,18 @@
+PODS:
+  - EasyTipView (1.0.2)
+  - Sharaku (1.0.2)
+  - SwiftyCam (2.1.0)
+
+DEPENDENCIES:
+  - EasyTipView
+  - Sharaku
+  - SwiftyCam
+
+SPEC CHECKSUMS:
+  EasyTipView: b93a19be981cc2221d6d7191d49872f547e0bebf
+  Sharaku: c18de569fc99f6e936f46ca812b571826cc658a7
+  SwiftyCam: 2f13473f67afa4658bff79453d7db6890e2fa84d
+
+PODFILE CHECKSUM: b9783f4cc2cb9d845973b471eda57121ae3e53b1
+
+COCOAPODS: 1.2.0
